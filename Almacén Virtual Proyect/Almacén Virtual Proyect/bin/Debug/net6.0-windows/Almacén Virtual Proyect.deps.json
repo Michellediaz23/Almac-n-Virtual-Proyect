@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Almacén Virtual Proyect/1.0.0": {
+        "dependencies": {
+          "Controlador.pf": "1.0.0"
+        },
+        "runtime": {
+          "Almacén Virtual Proyect.dll": {}
+        }
+      },
+      "Controlador.pf/1.0.0": {
+        "dependencies": {
+          "Modelo.pf": "1.0.0"
+        },
+        "runtime": {
+          "Controlador.pf.dll": {}
+        }
+      },
+      "Modelo.pf/1.0.0": {
+        "runtime": {
+          "Modelo.pf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Almacén Virtual Proyect/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Controlador.pf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Modelo.pf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

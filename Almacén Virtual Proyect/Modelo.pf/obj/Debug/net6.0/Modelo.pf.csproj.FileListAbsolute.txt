@@ -1,0 +1,24 @@
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\bin\Debug\net6.0\Modelo.pf.deps.json
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\bin\Debug\net6.0\Modelo.pf.dll
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\bin\Debug\net6.0\Modelo.pf.pdb
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\obj\Debug\net6.0\Modelo.pf.csproj.AssemblyReference.cache
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\obj\Debug\net6.0\Modelo.pf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\obj\Debug\net6.0\Modelo.pf.AssemblyInfoInputs.cache
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\obj\Debug\net6.0\Modelo.pf.AssemblyInfo.cs
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\obj\Debug\net6.0\Modelo.pf.csproj.CoreCompileInputs.cache
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\obj\Debug\net6.0\Modelo.pf.dll
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\obj\Debug\net6.0\refint\Modelo.pf.dll
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\obj\Debug\net6.0\Modelo.pf.pdb
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\obj\Debug\net6.0\ref\Modelo.pf.dll
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\bin\Debug\net6.0\Modelo.pf.deps.json
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\bin\Debug\net6.0\Modelo.pf.dll
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\bin\Debug\net6.0\Modelo.pf.pdb
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\obj\Debug\net6.0\Modelo.pf.csproj.AssemblyReference.cache
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\obj\Debug\net6.0\Modelo.pf.GeneratedMSBuildEditorConfig.editorconfig
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\obj\Debug\net6.0\Modelo.pf.AssemblyInfoInputs.cache
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\obj\Debug\net6.0\Modelo.pf.AssemblyInfo.cs
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\obj\Debug\net6.0\Modelo.pf.csproj.CoreCompileInputs.cache
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\obj\Debug\net6.0\Modelo.pf.dll
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\obj\Debug\net6.0\refint\Modelo.pf.dll
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\obj\Debug\net6.0\Modelo.pf.pdb
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Modelo.pf\obj\Debug\net6.0\ref\Modelo.pf.dll

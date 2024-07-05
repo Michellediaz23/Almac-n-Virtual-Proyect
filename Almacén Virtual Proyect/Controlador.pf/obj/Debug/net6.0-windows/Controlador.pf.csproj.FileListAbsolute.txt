@@ -1,0 +1,32 @@
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\bin\Debug\net6.0-windows\Controlador.pf.deps.json
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\bin\Debug\net6.0-windows\Controlador.pf.dll
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\bin\Debug\net6.0-windows\Controlador.pf.pdb
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\bin\Debug\net6.0-windows\Modelo.pf.dll
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\bin\Debug\net6.0-windows\Modelo.pf.pdb
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\Controlador.pf.csproj.AssemblyReference.cache
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\Controlador.pf.csproj.ResolveComReference.cache
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\Controlador.pf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\Controlador.pf.AssemblyInfoInputs.cache
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\Controlador.pf.AssemblyInfo.cs
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\Controlador.pf.csproj.CoreCompileInputs.cache
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\Controlador.pf.csproj.CopyComplete
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\Controlador.pf.dll
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\refint\Controlador.pf.dll
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\Controlador.pf.pdb
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\ref\Controlador.pf.dll
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\bin\Debug\net6.0-windows\Controlador.pf.deps.json
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\bin\Debug\net6.0-windows\Controlador.pf.dll
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\bin\Debug\net6.0-windows\Controlador.pf.pdb
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\bin\Debug\net6.0-windows\Modelo.pf.dll
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\bin\Debug\net6.0-windows\Modelo.pf.pdb
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\Controlador.pf.csproj.AssemblyReference.cache
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\Controlador.pf.csproj.ResolveComReference.cache
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\Controlador.pf.GeneratedMSBuildEditorConfig.editorconfig
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\Controlador.pf.AssemblyInfoInputs.cache
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\Controlador.pf.AssemblyInfo.cs
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\Controlador.pf.csproj.CoreCompileInputs.cache
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\Controlador.pf.csproj.CopyComplete
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\Controlador.pf.dll
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\refint\Controlador.pf.dll
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\Controlador.pf.pdb
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Controlador.pf\obj\Debug\net6.0-windows\ref\Controlador.pf.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Controlador.pf/1.0.0": {
+        "dependencies": {
+          "Modelo.pf": "1.0.0"
+        },
+        "runtime": {
+          "Controlador.pf.dll": {}
+        }
+      },
+      "Modelo.pf/1.0.0": {
+        "runtime": {
+          "Modelo.pf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Controlador.pf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Modelo.pf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1273617E-D2A2-41B0-B9ED-70A129AC4080}|Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect.csproj|C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\almac\u00E9n virtual proyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1273617E-D2A2-41B0-B9ED-70A129AC4080}|Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect.csproj|solutionrelative:almac\u00E9n virtual proyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1273617E-D2A2-41B0-B9ED-70A129AC4080}|Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect.csproj|C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\almac\u00E9n virtual proyect\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1273617E-D2A2-41B0-B9ED-70A129AC4080}|Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect.csproj|solutionrelative:almac\u00E9n virtual proyect\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5268415-0E7F-4365-95EA-7C481A88769E}|Controlador.pf\\Controlador.pf.csproj|C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\controlador.pf\\controlador.pf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E5268415-0E7F-4365-95EA-7C481A88769E}|Controlador.pf\\Controlador.pf.csproj|solutionrelative:controlador.pf\\controlador.pf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1273617E-D2A2-41B0-B9ED-70A129AC4080}|Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect.csproj|C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\almac\u00E9n virtual proyect\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1273617E-D2A2-41B0-B9ED-70A129AC4080}|Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect.csproj|solutionrelative:almac\u00E9n virtual proyect\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1E4322-94DF-4BD1-969E-B20DA080DD2D}|Modelo.pf\\Modelo.pf.csproj|C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\modelo.pf\\xxmodelxx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1E4322-94DF-4BD1-969E-B20DA080DD2D}|Modelo.pf\\Modelo.pf.csproj|solutionrelative:modelo.pf\\xxmodelxx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5268415-0E7F-4365-95EA-7C481A88769E}|Controlador.pf\\Controlador.pf.csproj|c:\\users\\michelle diaz\\desktop\\almac\u00E9n virtual proyect\\almac\u00E9n virtual proyect\\controlador.pf\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5268415-0E7F-4365-95EA-7C481A88769E}|Controlador.pf\\Controlador.pf.csproj|solutionrelative:controlador.pf\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1273617E-D2A2-41B0-B9ED-70A129AC4080}|Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect.csproj|C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\almac\u00E9n virtual proyect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1273617E-D2A2-41B0-B9ED-70A129AC4080}|Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect.csproj|solutionrelative:almac\u00E9n virtual proyect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1273617E-D2A2-41B0-B9ED-70A129AC4080}|Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect.csproj|C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\almac\u00E9n virtual proyect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1273617E-D2A2-41B0-B9ED-70A129AC4080}|Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect.csproj|solutionrelative:almac\u00E9n virtual proyect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1E4322-94DF-4BD1-969E-B20DA080DD2D}|Modelo.pf\\Modelo.pf.csproj|C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\modelo.pf\\modelo.pf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BC1E4322-94DF-4BD1-969E-B20DA080DD2D}|Modelo.pf\\Modelo.pf.csproj|solutionrelative:modelo.pf\\modelo.pf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Form1.cs",
+              "RelativeDocumentMoniker": "Almac\u00E9n Virtual Proyect\\Form1.cs",
+              "ToolTip": "C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Form1.cs",
+              "RelativeToolTip": "Almac\u00E9n Virtual Proyect\\Form1.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAkwC0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:06:07.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Form1.cs",
+              "RelativeDocumentMoniker": "Almac\u00E9n Virtual Proyect\\Form1.cs",
+              "ToolTip": "C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Form1.cs [Design]",
+              "RelativeToolTip": "Almac\u00E9n Virtual Proyect\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:06:07.41Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Controlador.pf\\Controller.cs",
+              "RelativeDocumentMoniker": "Controlador.pf\\Controller.cs",
+              "ToolTip": "C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Controlador.pf\\Controller.cs",
+              "RelativeToolTip": "Controlador.pf\\Controller.cs",
+              "ViewState": "AQIAAOAAAAAAAAAAAAAuwCgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:06:07.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XXModelXX.cs",
+              "DocumentMoniker": "C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Modelo.pf\\XXModelXX.cs",
+              "RelativeDocumentMoniker": "Modelo.pf\\XXModelXX.cs",
+              "ToolTip": "C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Modelo.pf\\XXModelXX.cs",
+              "RelativeToolTip": "Modelo.pf\\XXModelXX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:06:08.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Form2.cs",
+              "RelativeDocumentMoniker": "Almac\u00E9n Virtual Proyect\\Form2.cs",
+              "ToolTip": "C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Form2.cs [Design]",
+              "RelativeToolTip": "Almac\u00E9n Virtual Proyect\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:06:08.278Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controlador.pf.csproj",
+              "DocumentMoniker": "C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Controlador.pf\\Controlador.pf.csproj",
+              "RelativeDocumentMoniker": "Controlador.pf\\Controlador.pf.csproj",
+              "ToolTip": "C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Controlador.pf\\Controlador.pf.csproj",
+              "RelativeToolTip": "Controlador.pf\\Controlador.pf.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T22:06:08.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Form2.cs",
+              "RelativeDocumentMoniker": "Almac\u00E9n Virtual Proyect\\Form2.cs",
+              "ToolTip": "C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Form2.cs",
+              "RelativeToolTip": "Almac\u00E9n Virtual Proyect\\Form2.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAwwD4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:06:08.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Program.cs",
+              "RelativeDocumentMoniker": "Almac\u00E9n Virtual Proyect\\Program.cs",
+              "ToolTip": "C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Program.cs",
+              "RelativeToolTip": "Almac\u00E9n Virtual Proyect\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:06:07.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Modelo.pf.csproj",
+              "DocumentMoniker": "C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Modelo.pf\\Modelo.pf.csproj",
+              "RelativeDocumentMoniker": "Modelo.pf\\Modelo.pf.csproj",
+              "ToolTip": "C:\\Users\\michelle diaz\\Desktop\\Almac\u00E9n Virtual Proyect\\Almac\u00E9n Virtual Proyect\\Modelo.pf\\Modelo.pf.csproj",
+              "RelativeToolTip": "Modelo.pf\\Modelo.pf.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T22:06:08.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

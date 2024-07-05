@@ -1,0 +1,65 @@
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Almacén Virtual Proyect.exe
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Almacén Virtual Proyect.deps.json
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Almacén Virtual Proyect.runtimeconfig.json
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Almacén Virtual Proyect.dll
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Almacén Virtual Proyect.pdb
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.csproj.AssemblyReference.cache
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén_Virtual_Proyect.Form1.resources
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.csproj.GenerateResource.cache
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.AssemblyInfoInputs.cache
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.AssemblyInfo.cs
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.csproj.CoreCompileInputs.cache
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.dll
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\refint\Almacén Virtual Proyect.dll
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.pdb
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.genruntimeconfig.cache
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\ref\Almacén Virtual Proyect.dll
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Almacén Virtual Proyect.exe
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Almacén Virtual Proyect.deps.json
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Almacén Virtual Proyect.runtimeconfig.json
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Almacén Virtual Proyect.dll
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Almacén Virtual Proyect.pdb
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Controlador.pf.dll
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Modelo.pf.dll
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Controlador.pf.pdb
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Modelo.pf.pdb
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.csproj.AssemblyReference.cache
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén_Virtual_Proyect.Form1.resources
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén_Virtual_Proyect.Properties.Resources.resources
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.csproj.GenerateResource.cache
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.AssemblyInfoInputs.cache
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.AssemblyInfo.cs
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.csproj.CoreCompileInputs.cache
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.csproj.CopyComplete
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.dll
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\refint\Almacén Virtual Proyect.dll
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.pdb
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.genruntimeconfig.cache
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\ref\Almacén Virtual Proyect.dll
+C:\Users\WalfGamer\Desktop\#Trabajos# #progra#\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén_Virtual_Proyect.Form2.resources
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Almacén Virtual Proyect.exe
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Almacén Virtual Proyect.deps.json
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Almacén Virtual Proyect.runtimeconfig.json
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Almacén Virtual Proyect.dll
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Almacén Virtual Proyect.pdb
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Controlador.pf.dll
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Modelo.pf.dll
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Controlador.pf.pdb
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\bin\Debug\net6.0-windows\Modelo.pf.pdb
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.csproj.AssemblyReference.cache
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén_Virtual_Proyect.Form1.resources
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén_Virtual_Proyect.Form2.resources
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén_Virtual_Proyect.Properties.Resources.resources
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.csproj.GenerateResource.cache
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.GeneratedMSBuildEditorConfig.editorconfig
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.AssemblyInfoInputs.cache
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.AssemblyInfo.cs
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.csproj.CoreCompileInputs.cache
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.csproj.CopyComplete
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.dll
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\refint\Almacén Virtual Proyect.dll
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.pdb
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\Almacén Virtual Proyect.genruntimeconfig.cache
+F:\Almacén Virtual Proyect\Almacén Virtual Proyect\Almacén Virtual Proyect\obj\Debug\net6.0-windows\ref\Almacén Virtual Proyect.dll

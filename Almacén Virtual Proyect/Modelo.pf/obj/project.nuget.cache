@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "R71k0yk6Ri7zOeXXZpBmIWkj8KwYOVW8riXNL3JEs9hJGC0OkpqXafo6vxV/1At98XV1BG5HNQtkRqX7t4hF8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\michelle diaz\\Desktop\\Almacén Virtual Proyect\\Almacén Virtual Proyect\\Modelo.pf\\Modelo.pf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\michelle diaz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\michelle diaz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\michelle diaz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
